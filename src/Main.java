@@ -8,7 +8,7 @@ public class Main {
 
             // Mostrar la ventana secundaria al iniciar
             VentanaSecundaria secundaria = new VentanaSecundaria(ventana);
-            secundaria.setVisible(false);
+            secundaria.setVisible(true);
         });
     }
 }
